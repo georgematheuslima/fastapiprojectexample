@@ -1,0 +1,7 @@
+#Byte-compiled files
+__pychache__/
+
+#Enviroment files
+.env
+
+.idea
